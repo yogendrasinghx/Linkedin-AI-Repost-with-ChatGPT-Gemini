@@ -2,6 +2,15 @@
 
 This repository contains public documentation and legal information for the **LinkedIn AI Repost with ChatGPT & Gemini** Chrome Extension.
 
+## 🎬 Demo
+
+See the extension in action:
+
+<div align="center">
+  <img src="extension-demo.gif" alt="Extension Demo" width="600">
+  <p><em>LinkedIn AI Repost extension creating engaging content</em></p>
+</div>
+
 ## 📄 Legal Documents
 
 - **[Privacy Policy](PRIVACY_POLICY.md)** - How we handle your data (spoiler: we don't collect any)
