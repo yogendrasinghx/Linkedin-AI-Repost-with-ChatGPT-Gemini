@@ -1,5 +1,11 @@
 # LinkedIn AI Repost - Documentation
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/khfikcfcjamhalghcbgnhldaenlccfpb?style=for-the-badge&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/khfikcfcjamhalghcbgnhldaenlccfpb)
+<!-- Uncomment these badges once extension has users and ratings:
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/khfikcfcjamhalghcbgnhldaenlccfpb?style=for-the-badge&logo=googlechrome&logoColor=white&label=Users)](https://chromewebstore.google.com/detail/khfikcfcjamhalghcbgnhldaenlccfpb)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/khfikcfcjamhalghcbgnhldaenlccfpb?style=for-the-badge&logo=googlechrome&logoColor=white&label=Rating)](https://chromewebstore.google.com/detail/khfikcfcjamhalghcbgnhldaenlccfpb)
+-->
+
 This repository contains public documentation and legal information for the **LinkedIn AI Repost with ChatGPT & Gemini** Chrome Extension.
 
 ## 🎬 Demo
@@ -19,7 +25,7 @@ See the extension in action:
 ## 🔗 Quick Links
 
 - **Developer**: [Yogendra Singh](https://yogendrasingh.in)
-- **Chrome Web Store**: [Link will be added after publishing]
+- **Chrome Web Store**: [Install Extension](https://chromewebstore.google.com/detail/khfikcfcjamhalghcbgnhldaenlccfpb)
 
 ## 📋 About the Extension
 
