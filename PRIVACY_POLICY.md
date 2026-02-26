@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last Updated: February 24, 2026**
+**Last Updated: February 25, 2026**
 
 ## Overview
 
-LinkedIn AI Repost with ChatGPT & Gemini ("the Extension") is committed to protecting your privacy. This privacy policy explains how we handle data when you use our Chrome Extension.
+Quillzy ("the Extension") is committed to protecting your privacy. This privacy policy explains how we handle data when you use our Chrome Extension.
 
 ## Data Collection
 
@@ -31,6 +31,7 @@ When you use the Extension's features, the following data is read from LinkedIn 
 - **Post Images**: Image URLs from LinkedIn posts (fetched for image-aware AI commentary)
 - **Comment Context**: Text of the post being commented on
 - **DM Context**: The last 2-3 messages in a LinkedIn conversation (sender names and message text, for DM reply mode)
+- **Connection Note Context**: Recipient name and profile information from LinkedIn profile pages (for connection note mode)
 - **Editor Content**: Text you type in LinkedIn editors (for new post and draft-aware modes)
 
 This data is processed locally and sent only to your chosen AI provider for content generation. It is never stored persistently or sent to any server we control.
@@ -73,7 +74,7 @@ When a LinkedIn post contains images:
 The Extension requests the following permissions:
 
 - **storage**: To save your API keys, settings, and Browser AI download state securely in Chrome's storage
-- **Host permission (www.linkedin.com)**: To inject the AI writer toolbar on LinkedIn posts, comments, and DM editors
+- **Host permission (www.linkedin.com)**: To inject the Quillzy AI toolbar on LinkedIn posts, comments, DM editors, and connection note modals
 - **Host permission (media.licdn.com)**: To fetch post images for image-aware AI commentary
 - **Host permission (chatgpt.com, chat.openai.com)**: To auto-fill prompts on ChatGPT web for free tier mode
 - **Host permission (claude.ai)**: To auto-fill prompts on Claude web for free tier mode
@@ -132,7 +133,6 @@ We may update this privacy policy from time to time. The "Last Updated" date at 
 
 For questions or concerns about this privacy policy:
 - **Developer**: [https://yogendrasingh.in](https://yogendrasingh.in)
-- **GitHub**: [https://github.com/yogendrasinghx/linkedin_ai_repost](https://github.com/yogendrasinghx/linkedin_ai_repost)
 
 ## Disclaimer
 

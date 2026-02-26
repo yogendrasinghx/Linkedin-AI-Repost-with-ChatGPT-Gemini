@@ -1,10 +1,10 @@
 # Terms of Service
 
-**Last Updated: February 24, 2026**
+**Last Updated: February 25, 2026**
 
 ## 1. Acceptance of Terms
 
-By installing and using the LinkedIn AI Repost with ChatGPT & Gemini Chrome Extension ("the Extension"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Extension.
+By installing and using the Quillzy Chrome Extension ("the Extension"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Extension.
 
 ## 2. Description of Service
 
@@ -14,6 +14,7 @@ The Extension is a browser tool that helps you create and enhance LinkedIn conte
 - **New Post Mode**: Rephrase and enhance your draft content
 - **Comment Mode**: Generate context-aware comments on LinkedIn posts
 - **DM Reply Mode**: Generate conversation-aware replies in LinkedIn messaging
+- **Connection Note Mode**: Generate personalized connection request notes when sending invitations
 - **AI Provider Integration**: Browser AI (on-device), Google Gemini API, and OpenAI API
 - **Free Tier Mode**: Optional integration with ChatGPT, Claude, and Gemini web interfaces
 
@@ -61,7 +62,7 @@ Browser AI mode does not require an API key.
 - You must review and approve all AI-generated content before posting
 - AI-generated content may contain errors, inaccuracies, or inappropriate material
 - You bear full responsibility for compliance with LinkedIn's content policies
-- This applies to all modes: posts, reposts, comments, and DM replies
+- This applies to all modes: posts, reposts, comments, DM replies, and connection notes
 
 ### 5.2 Compliance with Third-Party Terms
 
@@ -87,7 +88,7 @@ You may NOT use the Extension to:
 
 ### 6.1 Extension License
 
-The Extension is proprietary software. All rights reserved.
+Quillzy is proprietary software. All rights reserved.
 
 ### 6.2 AI-Generated Content
 
@@ -97,6 +98,7 @@ The Extension is proprietary software. All rights reserved.
 
 ### 6.3 Trademarks
 
+- "Quillzy" is a trademark of the Extension developer
 - "LinkedIn" is a trademark of LinkedIn Corporation
 - "ChatGPT" and "OpenAI" are trademarks of OpenAI
 - "Gemini" and "Google" are trademarks of Google LLC
@@ -143,11 +145,11 @@ You agree to indemnify and hold harmless the Extension developer from any claims
 - Your use of the Extension
 - Your violation of these Terms
 - Your violation of third-party rights (including LinkedIn's terms)
-- Content you post on LinkedIn using the Extension (including posts, comments, and DMs)
+- Content you post on LinkedIn using the Extension (including posts, comments, DMs, and connection notes)
 
 ## 9. Privacy
 
-Your use of the Extension is also governed by our [Privacy Policy](https://github.com/yogendrasinghx/Linkedin-AI-Repost-with-ChatGPT-Gemini/blob/main/PRIVACY_POLICY.md). Please review it to understand our privacy practices.
+Your use of the Extension is also governed by our [Privacy Policy](PRIVACY_POLICY.md). Please review it to understand our privacy practices.
 
 ## 10. Changes to Service
 
@@ -222,7 +224,6 @@ There are no third-party beneficiaries to these Terms.
 For questions about these Terms:
 
 - **Developer Portfolio**: [https://yogendrasingh.in](https://yogendrasingh.in)
-- **GitHub**: [https://github.com/yogendrasinghx/linkedin_ai_repost](https://github.com/yogendrasinghx/linkedin_ai_repost)
 
 ## 15. Acknowledgment
 
