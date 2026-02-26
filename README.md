@@ -1,8 +1,8 @@
-# LinkedIn AI Repost - Documentation
+# Quillzy - Documentation
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/khfikcfcjamhalghcbgnhldaenlccfpb?style=for-the-badge&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/khfikcfcjamhalghcbgnhldaenlccfpb)
 
-This repository contains public documentation and legal information for the **LinkedIn AI Repost with ChatGPT & Gemini** Chrome Extension.
+This repository contains public documentation and legal information for the **Quillzy: AI LinkedIn Writer** Chrome Extension.
 
 ## Screenshots
 
@@ -38,40 +38,47 @@ This repository contains public documentation and legal information for the **Li
 
 ## Quick Links
 
-- **Chrome Web Store**: [LinkedIn AI Repost with ChatGPT & Gemini](https://chromewebstore.google.com/detail/linkedin-ai-repost-with-c/khfikcfcjamhalghcbgnhldaenlccfpb)
-- **Source Code**: [GitHub](https://github.com/yogendrasinghx/linkedin_ai_repost)
+- **Chrome Web Store**: [Quillzy: AI LinkedIn Writer](https://chromewebstore.google.com/detail/linkedin-ai-repost-with-c/khfikcfcjamhalghcbgnhldaenlccfpb)
 - **Developer**: [Yogendra Singh](https://yogendrasingh.in)
 
 ## About the Extension
 
-LinkedIn AI Repost with ChatGPT & Gemini is a privacy-first Chrome extension that helps you create engaging LinkedIn content using AI. It supports:
+Quillzy is a free, privacy-first Chrome extension that uses AI to help you write better LinkedIn content — posts, reposts, comments, DM replies, and connection notes — in seconds.
 
-- **Repost Mode**: Generate commentary when sharing someone else's post (with image-aware AI)
-- **New Post Mode**: Rephrase and enhance your own draft content
-- **Comment Mode**: Generate context-aware comments on feed, company, profile, and activity post pages
+### Five Modes
+
+- **Repost Mode**: Generate compelling commentary when sharing someone else's post (with image-aware AI)
+- **New Post Mode**: Rephrase and enhance your own draft content while keeping your voice
+- **Comment Mode**: Generate context-aware comments on feed posts, company pages, profile feeds, and activity pages
 - **DM Reply Mode**: Generate conversation-aware replies in LinkedIn messaging
-- **Three AI Providers**: Browser AI (free, on-device), Google Gemini, and OpenAI GPT
-- **Free Tier**: Use ChatGPT, Claude, or Gemini web interfaces without API keys
+- **Connection Note Mode**: Generate personalized connection request notes when sending invitations
+
+### Three AI Providers
+
+- **Browser AI** (Gemini Nano): Free, on-device, works offline — no API key needed
+- **Google Gemini**: Cloud API with free tier available
+- **OpenAI GPT**: Premium cloud API
+- **Free Tier**: Use ChatGPT, Claude, or Gemini web interfaces without any API key
 
 ### Key Features
 
-- **Browser AI**: Free, on-device AI with Gemini Nano - no API key, works offline
 - **Image-Aware AI**: Extracts post images for richer, visually-aware commentary
-- **15 Tones**: Professional, Casual, Witty, Inspirational, Custom, and more
-- **Max Word Count**: Control the length of generated content
-- **Privacy-First**: Your API keys stay in your browser, no data collection
+- **17 Tones**: Professional, Casual, Witty, Inspirational, Storytelling, Custom, and more
+- **Max Word Count**: Control the length of generated content per mode
+- **Custom Prompts**: Create and manage your own prompt templates
+- **Privacy-First**: API keys never leave your browser. Browser AI runs 100% on-device
 - **Dark Mode**: Automatic theme detection with manual toggle
-- **BYOK Model**: Bring Your Own Key - you control costs
+- **BYOK Model**: Bring Your Own Key — you control costs
 
 ## Privacy & Security
 
 We take your privacy seriously:
 
-- **No data collection** - We don't collect, store, or transmit any personal data
-- **Local storage only** - API keys stored in Chrome's encrypted storage
-- **Direct API calls** - Your browser communicates directly with AI providers
-- **On-device AI** - Browser AI processes everything locally, data never leaves your browser
-- **No tracking** - No analytics, telemetry, or usage monitoring
+- **No data collection** — We don't collect, store, or transmit any personal data
+- **Local storage only** — API keys stored in Chrome's encrypted storage
+- **Direct API calls** — Your browser communicates directly with AI providers
+- **On-device AI** — Browser AI processes everything locally, data never leaves your browser
+- **No tracking** — No analytics, telemetry, or usage monitoring
 
 Read our full [Privacy Policy](PRIVACY_POLICY.md) for details.
 
@@ -80,7 +87,6 @@ Read our full [Privacy Policy](PRIVACY_POLICY.md) for details.
 For questions, concerns, or support:
 
 - **Developer Portfolio**: [https://yogendrasingh.in](https://yogendrasingh.in)
-- **GitHub Issues**: [https://github.com/yogendrasinghx/linkedin_ai_repost/issues](https://github.com/yogendrasinghx/linkedin_ai_repost/issues)
 
 ## License
 
@@ -90,4 +96,4 @@ This documentation repository is provided for transparency and Chrome Web Store 
 
 ---
 
-**Last Updated**: February 24, 2026
+**Last Updated**: February 25, 2026
